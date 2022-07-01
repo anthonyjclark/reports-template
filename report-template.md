@@ -1,12 +1,12 @@
 # Summary
 
-| Date  | Notes
-| :---- | :----
-| 06/26 | [Quick notes for the day's work]
-| 06/28 | [Quick notes for the day's work]
-| 06/29 | [Quick notes for the day's work]
-| 06/30 | [Quick notes for the day's work]
-| 07/01 | [Quick notes for the day's work]
+| Date   | Notes
+| :----- | :-------------------------------
+| [Date] | [Quick notes for the day's work]
+| [Date] | [Quick notes for the day's work]
+| [Date] | [Quick notes for the day's work]
+| [Date] | [Quick notes for the day's work]
+| [Date] | [Quick notes for the day's work]
 
 # Activities
 
